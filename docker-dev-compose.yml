@@ -1,0 +1,9 @@
+version: '3'
+services:
+  openresty:
+    image: iusik/openlu
+    ports:
+      - "80"
+    volumes:
+      - ./src:/var/code
+      - ./docker/openresty/nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
