@@ -27,3 +27,10 @@ All plugins are places to directory: `./src/plugins/*`
 **Path:** `./src/plugins/currentDateTime`
 
 **Description:** Returns current time as json object
+
+### Realtime replace content
+**Name:** replaceContent
+
+**Path:** `./src/plugins/replaceContent`
+
+**Description:** Replace content from upstreams
