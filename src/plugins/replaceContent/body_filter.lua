@@ -1,3 +1,5 @@
+-- Realtime replace content
+
 local _M = {}
 
 local content = nil
