@@ -50,3 +50,8 @@ Realtime replace content
 **Path:** `./src/plugins/replaceContent`
 
 **Description:** Replace content from upstreams
+
+
+License
+=======
+The Laravel framework is open-sourced software licensed under the [MIT license.](LICENSE)
